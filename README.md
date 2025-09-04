@@ -1,4 +1,4 @@
-# Site Vendas - DevClub Proj
+# Site Vendas 
 
 Site moderno de apresentação de produtos, criado para estudos, portfólio e demonstração de habilidades em front-end.  
 Utiliza HTML, CSS e JavaScript puro, com layout responsivo, animações suaves e navegação intuitiva.
