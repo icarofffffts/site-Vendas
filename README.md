@@ -34,4 +34,4 @@ Ideal para quem busca inspiração em layouts modernos de e-commerce ou deseja a
 
 ---
 
-Feito
+Feito por [Icaro Silva](https://github.com/icarofffffts) 🚀
